@@ -1,16 +1,16 @@
 ## Hi there 👋
+![Recent Spotify Tracks](https://spotify-recently-played-readme.vercel.app/api?user=21h6fzsj2ezvv3qpjdwmjwi6i)
 
-<!--
-**andrefrtn/andrefrtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Zenet Informatica
+- 🌱 I’m currently learning Software Engineering
+- 🤔 I’m looking for help with Java
+- 💬 Ask me about Code
+- 📫 How to reach me: andrefortini098@gmail.com
+- 😄 Pronouns: he/him
+
+
