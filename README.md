@@ -3,8 +3,6 @@
 
 
 ## Hi there 👋
-![Recent Spotify Tracks](https://spotify-recently-played-readme.vercel.app/api?user=21h6fzsj2ezvv3qpjdwmjwi6i)
-
 
 
 
