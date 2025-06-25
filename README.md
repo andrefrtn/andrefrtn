@@ -13,6 +13,5 @@
 - 🤔 I’m looking for help with Java
 - 💬 Ask me about Code
 - 📫 How to reach me: andrefortini098@gmail.com
-- 😄 Pronouns: he/him
 
 
