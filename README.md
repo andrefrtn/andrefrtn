@@ -35,7 +35,7 @@
 
 ---
 
-### 🪬 A quote I live by
+### 🧿 A quote I live by
 
 > “I do nothing in the dark 'cause I believe in karma”
 
