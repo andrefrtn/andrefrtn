@@ -6,7 +6,7 @@
 ## Hi there 👋
 
 
-
+## I'm André Fortini, software engineering student 👨‍💻
 
 
 - 🔭 I’m currently working on Zenet Informatica
