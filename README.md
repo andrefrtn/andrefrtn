@@ -11,9 +11,9 @@
 ### 🚀 About Me
 
 - 💼 Currently working at **Zenet Informática**
-- 📚 Constantly learning about **Java**, **backend development**, and clean code practices
+- 🌱 I’m currently learning Software Engineering
 - 🔍 Always looking for new challenges and opportunities to grow
-- 💬 I love sharing knowledge — feel free to ask me anything about **code, logic, bugs, or frameworks**
+- 💬 I love sharing knowledge!! Feel free to ask me anything about **code, logic, bugs, or frameworks**
 
 ---
 
@@ -37,14 +37,14 @@
 
 ### ✨ A quote I live by
 
-> “Clean code is like poetry: clear, intentional, and meaningful.”
+> “I do nothing in the dark 'cause I believe in karma”
 
 ---
 
 ### ⚡ Fun facts
 
-- 🎮 I’m a gamer when I’m not coding
-- 💡 I’m naturally curious — always asking *why* and *how*
+- 🏋️‍♂️ I'm always exercising
+- 💡 I’m naturally curious!! Always asking *why* and *how*
 - 🤝 I believe in the power of community and teamwork
 
 ---
