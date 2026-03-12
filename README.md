@@ -32,13 +32,6 @@
 📧 Email: [andrefortini098@gmail.com](mailto:andrefortini098@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/andrefortini](https://www.linkedin.com/in/andrefortini/)  
 
-
----
-
-### 🧿 A quote I live by
-
-> “I do nothing in the dark 'cause I believe in karma”
-
 ---
 
 ### ⚡ Fun facts
