@@ -42,7 +42,7 @@
 ### 📫 How to reach me
 
 📧 Email: [andrefortini098@gmail.com](mailto:andrefortini098@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/andrefortini](https://www.linkedin.com/in/andrefortini/)  
+💼 LinkedIn: [linkedin.com/in/andrefortini](https://www.linkedin.com/in/andre-fortini-dev)  
 
 ---
 
